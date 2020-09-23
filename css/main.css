@@ -82,3 +82,7 @@ p {
   font-family: Georgia, serif;
   color: #000;
 }
+
+ul {
+  display: flex;
+}
